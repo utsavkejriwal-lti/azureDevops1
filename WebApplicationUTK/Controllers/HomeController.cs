@@ -15,7 +15,7 @@ namespace WebApplicationUTK.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Utsav Kejriwal's Page";
+            ViewBag.Message = "Utsav Kejriwal's updated page";
 
             return View();
         }
